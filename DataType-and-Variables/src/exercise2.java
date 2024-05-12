@@ -1,3 +1,6 @@
+//Crea un código que calcule el área de un triángulo
+//usando la base y la altura como variables.
+
 import java.util.Scanner;
 
 public class exercise2 {
